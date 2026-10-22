@@ -1,0 +1,16 @@
+{
+  "name": "products-api-exercise",
+  "version": "1.0.0",
+  "description": "A REST API for managing and querying products",
+  "main": "app.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
